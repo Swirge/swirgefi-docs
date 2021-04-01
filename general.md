@@ -22,7 +22,7 @@ There are a few key reasons why Swirge Finance differs from a large number of yi
 
 1. Swirge Finance team is made up of more than 3 Smart contract developers with good experience in solidity, who carefully review and test our vaults, investment strategies, and smart contracts before releasing them to the public.
 2. Given enough eyeballs, all bugs are shallow. The more widely available the source code is for public testing, scrutiny, and experimentation, the more rapidly all forms of bugs will be discovered. Following beefy's key principle.
-3. Beefy offers unique strategies that other yield optimizers simply do not have. This includes liquidity pool pairs that you can find only on the Beefy platform.
+3. Swirge offers unique strategies that other yield optimizers simply do not have. This includes liquidity pool pairs that you can find only on the Swirge Finance platform.
 4. Yield optimization was originally commonplace on the Ethereum network. Huge gas fees however have made it impractical to use and costly. Swirge Finance works with Binance Smart Chain \(Avalanche C-Chain and Huobi Eco Chain\) to overcome the weaknesses present with Ethereum.
 5. Swirge Finance deploys and manages the first-of-its-kind decentralized stable coins \(sNGN, sINR, sPKR\), and offers yield and staking options for these stable coins.
 
