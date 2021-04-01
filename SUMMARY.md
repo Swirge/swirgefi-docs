@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction to Swirge Finance](README.md)
+* [General](general.md)
 
