@@ -9,6 +9,8 @@
 
 ---
 
+* [Syrup Pools](syrup-pools/README.md)
+  * [Syrup Pools](syrup-pools/syrup-pools.md)
 * [Lottery](lottery/README.md)
   * [Overview](lottery/overview.md)
   * [Lottery FAQ](lottery/lottery-faq.md)
