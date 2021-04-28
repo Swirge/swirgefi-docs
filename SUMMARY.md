@@ -18,3 +18,8 @@
   * [Lottery FAQ](lottery/lottery-faq.md)
 * [Roadmap](roadmap.md)
 
+## TOKENOMICS
+
+* [SWFI](tokenomics/swfi/README.md)
+  * [SWFI Tokenomics](tokenomics/swfi/swfi-tokenomics.md)
+
