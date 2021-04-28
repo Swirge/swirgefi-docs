@@ -60,3 +60,27 @@ Join the announcements Telegram group to be the first that finds out.
 
 Announcements Group: [https://t.me/swirgepay](https://t.me/swirgepay)
 
+## How do I get airdrops?
+
+When there is any official airdrop going on it will be announced along with the requirements.
+
+Please remember anyone can airdrop tokens to SwirgeFinance users since every transaction is public on BSCScan. Do your own due diligence when it comes to non-official airdrops.
+
+## Why does it say I have no BNB balance?
+
+You're most likely not connected to Binance Smart Chain within your wallet.
+
+## How do I vote?
+
+You can vote on the voting page using $SYRUP.
+
+Voting page: [https://voting.swirge.com/\#/swfi](https://voting.swirge.com/#/swfi)
+
+## Do I lose SYRUP if I vote?
+
+You do not lose $SYRUP when you vote.
+
+## What is the max supply of SWFI?
+
+$SWFI does not have a max. supply at the time of writing.
+
