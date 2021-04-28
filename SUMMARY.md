@@ -16,4 +16,5 @@
 * [Lottery](lottery/README.md)
   * [Overview](lottery/overview.md)
   * [Lottery FAQ](lottery/lottery-faq.md)
+* [Roadmap](roadmap.md)
 
