@@ -13,7 +13,7 @@ Note that any project will be able to distribute tokens via Syrup Pool, but only
 
 **Why would projects want to participate?**
 
-Since Swirge Finance Team has had the [fairest launch ever](https://medium.com/@pancakeswap/the-fairest-launch-ever-5b246644ba2a), Syrup Pool projects will allow projects to receive market attention by issuing tokens to the largest \(and most active\) BSC community.
+Since Swirge Finance Team has had the fairest launch ever, Syrup Pool projects will allow projects to receive market attention by issuing tokens to the largest \(and most active\) BSC community.
 
 Projects will also receive an immediate default listing on the Swirge Finance interface, obtaining priority promotion on the exchange \(by ranking temporarily first in selecting tokens on the website\).
 
